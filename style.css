@@ -152,3 +152,31 @@ text-align: center;
     text-align: left;
 }
 
+
+.action-wrap{
+height: 350px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.action-banner{
+    box-sizing: border-box;
+    padding: 0px 120px;
+    height: 150px;
+    width: 1000px;
+    border-radius: 15px;
+    background-color: #3882f6;
+    display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+footer{
+    height: 100px;
+    background-color: #1f2937;
+    font-size: 18px;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
